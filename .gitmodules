@@ -1,0 +1,6 @@
+[submodule "Mainroad-seahouse"]
+	path = Mainroad-seahouse
+	url = https://github.com/sea-house/Mainroad-seahouse
+[submodule "themes/Mainroad-seahouse"]
+	path = themes/Mainroad-seahouse
+	url = https://github.com/sea-house/Mainroad-seahouse
