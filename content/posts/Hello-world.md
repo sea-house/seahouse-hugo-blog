@@ -5,6 +5,6 @@ draft: true
 ---
 
 ## The first post on this site using Hugo
-Also forked a version of the [Mainroad theme]('https://www.andrewhoog.com/post/git-submodule-for-hugo-themes/') so I can customise it later. 
+Also forked a version of the [Mainroad theme]("www.andrewhoog.com/post/git-submodule-for-hugo-themes/") so I can customise it later. 
 
 
