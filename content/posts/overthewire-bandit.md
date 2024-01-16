@@ -10,7 +10,7 @@ https://overthewire.org/wargames/bandit
 
 The beginners CTF of overthewire
 
-## Level14
+## Level 14
 
 All you need to do is use netcat to connect within bandit. You can then submit the previous password
 ```
