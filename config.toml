@@ -1,4 +1,29 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Seahouse's place"
 theme = "Mainroad-seahouse"
+paginate = "10"
+
+[Author] # Used in authorbox
+  name = "Seahouse"
+
+[Params]
+  twitter_cards = true
+  mainSections = ["posts", "About"]
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap"
+
+#[Params.logo]
+#  image = "img/image154.png"
+
+[Params.sidebar]
+  home = "right"
+  widgets = ["recent", "taglist", "social"]
+
+[Params.widgets.social]
+  github = "sea-house"
+
+[Params.style.vars]
+  fontFamilyPrimary = "'Nanum Gothic Coding', monospace"
+
+
+

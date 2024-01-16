@@ -2,6 +2,7 @@
 title: "My first post"
 date: 2024-01-15T23:10:28Z
 draft: true
+tags: ["hello"]
 ---
 
 ## The first post on this site using Hugo
