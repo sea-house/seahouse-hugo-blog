@@ -1,7 +1,7 @@
 ---
 title: "Overthewire Bandit"
 date: 2024-01-16T12:07:11Z
-draft: true
+draft: false
 tags: ["overthewite", "ctf"]
 ---
 
